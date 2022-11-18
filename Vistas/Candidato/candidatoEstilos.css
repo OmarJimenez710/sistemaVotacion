@@ -1,0 +1,17 @@
+.contenedorGeneral{
+    background-color: #9FB47D;
+}
+
+.espacioCandidato{
+    background-image: url("../../Imagenes/tapiz.png");
+    background-size: 100%;
+    border: 1px solid none;
+    border-radius: 20px;
+    padding: 1vw 1vh;
+}
+
+.encabezadoEleccion{
+    background-image: url("../../Imagenes/tapiz.png");
+    background-size: 100%;
+}
+

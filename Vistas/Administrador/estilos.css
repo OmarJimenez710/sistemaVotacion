@@ -1,0 +1,12 @@
+.encabezado{
+    background-color: aqua;
+}
+
+.centrar{
+    margin: 2px auto;
+}
+
+.scrollable{
+    height: 200px;
+    overflow: scroll;
+}
